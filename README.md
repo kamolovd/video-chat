@@ -1,4 +1,4 @@
-## [Deploy link] (https://video-chat-cra.netlify.app/)
+## [Deploy link](https://video-chat-cra.netlify.app/)
 
 # Getting Started with Create React App
 
